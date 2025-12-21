@@ -10,4 +10,4 @@ Angriff mit Giftstachel.
 | [[Ausdauer]]    | 0        |
 | Schadenswürfel  | 1        |
 #### Effekt
-Verursacht Aspekt Gift.
+Verursacht [[Aspekte|Aspekt]] Gift.

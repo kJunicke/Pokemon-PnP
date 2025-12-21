@@ -10,4 +10,4 @@ Versprüht ätzende Flüssigkeit
 | [[Ausdauer]]    | 1       |
 | Schadenswürfel  | 1w4     |
 #### Effekt
-Verursacht den Aspekt Säure
+Verursacht den [[Aspekte|Aspekt]] Säure

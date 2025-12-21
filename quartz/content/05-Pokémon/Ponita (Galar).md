@@ -5,7 +5,7 @@
 - **Trainer**: Isy
 
 ## Basiswerte 
-[Bisafans](https://www.bisafans.de/pokedex/025.php)
+[Bisafans](https://www.bisafans.de/pokedex/077.php)
 
 | Statuswert           | Basiswert | /100 |
 | -------------------- | --------- | ---- |

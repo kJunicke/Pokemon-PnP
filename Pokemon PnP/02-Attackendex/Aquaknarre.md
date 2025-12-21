@@ -10,4 +10,4 @@ Der Anwender feuert kräftig Wasser auf das Ziel.
 | [[Ausdauer]]    | 1       |
 | Schadenswürfel  | 1W4     |
 #### Effekt
-Erzeugt Aspekt Nass
+Erzeugt [[Aspekte|Aspekt]] Nass

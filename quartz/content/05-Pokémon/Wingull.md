@@ -4,7 +4,7 @@
 - **Typ**: Flug , Wasser
 
 ## Basiswerte 
-[Bisafans](https://www.bisafans.de/pokedex/025.php)
+[Bisafans](https://www.bisafans.de/pokedex/278.php)
 
 | Statuswert           | Basiswert | /100 |
 | -------------------- | --------- | ---- |

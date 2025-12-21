@@ -4,7 +4,7 @@
 - **Typ**: Wasser, Gestein
 
 ## Basiswerte 
-[Bisafans](https://www.bisafans.de/pokedex/025.php)
+[Bisafans](https://www.bisafans.de/pokedex/138.php)
 
 | Statuswert           | Basiswert | /100 |     |
 | -------------------- | --------- | ---- | --- |
@@ -15,6 +15,8 @@
 | Spezial Verteidigung | 55        |      | 0   |
 | Geschwindigkeit      | 35        |      | 0   |
 | **Summe**            | 355       |      |     |
-**EP zum aufleveln:** 
+**EP zum aufleveln:** 3,55
 ## Attacken
-- [[Walzer]], [[Panzerschutz]], [[Klammergriff]]
+- [[Walzer]]
+- [[Panzerschutz]]
+- [[Klammergriff]]

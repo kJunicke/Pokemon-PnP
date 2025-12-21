@@ -1,1 +1,1 @@
-Die hinter dem Riss und die Heimat aller [[Pokémon]]. Wondria ist damit die Hauptspielwelt der Kampagne.
+Die Welt hinter dem Riss und die Heimat aller [[Pokémon]]. Wondria ist damit die Hauptspielwelt der Kampagne.

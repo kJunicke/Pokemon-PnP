@@ -10,4 +10,4 @@ Wirft Schlamm auf das Ziel. Dieses wird eventuell vergiftet.
 | [[Ausdauer]]    | 1       |
 | Schadenswürfel  | 1W4     |
 #### Effekt
-Erzeugt den Aspekt Gift 
+Erzeugt den [[Aspekte|Aspekt]] Gift 

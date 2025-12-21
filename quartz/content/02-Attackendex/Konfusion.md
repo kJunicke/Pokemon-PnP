@@ -10,4 +10,4 @@ Das Ziel wird von schwacher telekinetischer Energie getroffen
 | [[Ausdauer]]    | 1       |
 | Schadenswürfel  | 1W4     |
 #### Effekt
-Erzeugt den Aspekt Verwirrt beim angegriffenen [[Pokémon]]
+Erzeugt den [[Aspekte|Aspekt]] Verwirrt beim angegriffenen [[Pokémon]]

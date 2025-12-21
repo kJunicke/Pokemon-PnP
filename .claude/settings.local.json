@@ -21,7 +21,10 @@
       "Bash(npx quartz build)",
       "Bash(gh run list:*)",
       "Bash(curl:*)",
-      "Bash(git check-ignore:*)"
+      "Bash(git check-ignore:*)",
+      "Bash(find:*)",
+      "Bash(npm run build:*)",
+      "Bash(npx quartz:*)"
     ],
     "deny": [],
     "ask": []

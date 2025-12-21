@@ -5,7 +5,7 @@
 - **Trainer**: Kerstin
 
 ## Basiswerte 
-[Bisafans](https://www.bisafans.de/pokedex/025.php)
+[Bisafans](https://www.bisafans.de/pokedex/131.php)
 
 | Statuswert           | Basiswert | /100 |
 | -------------------- | --------- | ---- |

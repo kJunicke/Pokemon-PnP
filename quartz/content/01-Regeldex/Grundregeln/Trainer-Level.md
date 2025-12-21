@@ -7,10 +7,10 @@ Immer wenn du eine **Spielrunde abschließt**, erhält dein Trainer einen **Erfa
 Um ein Level aufzusteigen brauchst du:
 
 ```
-Benötigte EP = Aktuelles Level
+Benötigte EP = 3 + Aktuelles Level / 2 (abgerundet)
 ```
 
-***Beispiel:** Level 2 → 3: 2 EP benötigt*
+***Beispiel:** Level 2 → 3: 4 EP benötigt*
 
 Bei einem Level-Up erhältst du:
 

@@ -13,3 +13,5 @@
 ![[Abwehren#Abwehren]]
 
 ![[Durchschnaufen#Durchschnaufen]]
+
+![[Aspekt erzeugen#Aspekt erzeugen]]
