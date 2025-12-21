@@ -1,0 +1,1 @@
+[[Pokémon]] und [[Trainer]] erholen sich. Üblicherweise endet jede [[Spielrunde]] mit einer Rast. Bei einer Rast werden KP und AP sowie APM wieder vollständig aufgefüllt

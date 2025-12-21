@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git mv:*)",
+      "Bash(git push)",
+      "Bash(git clone:*)",
+      "Bash(npm install:*)",
+      "Bash(node quartz/scripts/sync-content.cjs:*)",
+      "mcp__playwright",
+      "Bash(cat:*)",
+      "Bash(npx quartz build:*)",
+      "Bash(ls:*)",
+      "Bash(DEBUG=*)",
+      "Bash(git config:*)",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "Bash(node scripts/sync-content.cjs:*)",
+      "Bash(npx quartz build)",
+      "Bash(gh run list:*)",
+      "Bash(curl:*)",
+      "Bash(git check-ignore:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

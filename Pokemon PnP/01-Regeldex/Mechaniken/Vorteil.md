@@ -1,0 +1,1 @@
+wirf den entsprechenden Würfel (idR. W20) 2 mal und nimm das höhere Ergebnis

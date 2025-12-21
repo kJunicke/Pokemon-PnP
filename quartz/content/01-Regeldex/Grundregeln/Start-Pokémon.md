@@ -1,0 +1,1 @@
+Jedes Pokemon der Basis Stufe (nicht entwickelt) mit [[Statuswerte|Basis-Statuswerten]] unter 400 Punkten

@@ -1,0 +1,1 @@
+Ein [[Pokémon]] ist Kampfunfähig wenn seine KP auf 0 Fallen
