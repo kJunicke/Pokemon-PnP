@@ -5,7 +5,6 @@
 -
 
 # Szenen
-## [Titel]
 -
 -
 -
@@ -23,25 +22,21 @@
 - [ ] 
 
 # Orte
-## [Ort]
 -
 -
 -
 
 # NPCs
-## [Name]
 -
 -
 -
 
 # Gegner
-## [Name]
 -
 -
 -
 
 # Belohnungen
-## [Belohnung]
 -
 -
 -

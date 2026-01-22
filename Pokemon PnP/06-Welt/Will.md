@@ -1,0 +1,5 @@
+- 34 Jahre Alt
+- Mischung aus Arnak Archologe und Kiffer
+- Kam vor c.a. 2 Jahren
+- Vielleicht vergeht Zeit anders in dieser Welt #seed
+- Kann die Gruppe über die Basics von [[Pokémon]] aufklären

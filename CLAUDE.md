@@ -95,7 +95,8 @@ quartz/                         # Wiki-Generator (Quartz v4)
 ### Pokémon-Formeln
 | Mechanik | Formel |
 |----------|--------|
-| Statuswert | `Basis ÷ 100 × Level` (KP +10) |
+| Statuswert | `Basis ÷ 100 × Level` |
+| KP | `(Basis-KP ÷ 50 × Level) + 5` |
 | EP benötigt | `(Summe BW ÷ 100) × Level` |
 | Max. Ausdauer | `Level` |
 | Zuneigungsbonus | `ZW ÷ 10` |
