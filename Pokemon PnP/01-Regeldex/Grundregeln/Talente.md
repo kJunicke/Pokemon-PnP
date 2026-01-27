@@ -2,7 +2,7 @@
 
 **Talente** sind Spezialfähigkeiten die deinen Trainer einzigartig machen und Regeln gezielt verändern. 
 
-Du erhältst sie durch **Talentpunkte** (1 pro Level-Up). Für jeden Talentpunkt kannst du ein Talent erhalten welches mindestens deinem Level entspricht und dessen Voraussetzungen du erfüllst
+Du erhältst sie durch **Talentpunkte** (1 pro Level-Up). Für jeden Talentpunkt kannst du ein Talent erhalten welches mindestens deinem Level entspricht und dessen Voraussetzungen du erfüllst. Du kannst jedes Talent nur 1 mal erhalten, solange nicht anders klarifiziert.
 
 ## Voraussetzungen
 
@@ -12,20 +12,18 @@ Manche Talente haben Voraussetzungen. Achte darauf beim Auswählen.
 
 Level 1-2 Talente
 
-| Name                     | Beschreibung                                                                 | Voraussetzungen |
-| ------------------------ | ---------------------------------------------------------------------------- | --------------- |
-| Pokémon-Stylistin        | Gib einem Angriff gegen dein Pokémon 1x pro Kampf Nachteil                   | -               |
-| Taktiker                 | Füge jedem Kampf einen Schlachtfeld-Aspekt hinzu und nutze ihn einmal gratis | -               |
-| Nonverbale Kommunikation | Gib deinem Pokémon Befehle ohne zu sprechen                                  | -               |
-| Pokémon-Flüsterer        | Schnellerer Gewinn an Zuneigung bei deinen Pokémon                           | -               |
-| Trainer Pokémon-Macht    | Pokémon machen schnellere Fortschritte beim Trainieren                       | -               |
-| Stratege                 | Schnelleres Auswechseln von Pokémon im Kampf                                 | -               |
-| Schnelldenker            | Einmalige Bonusaktion pro Kampf                                              | -               |
-| Motivator                | Weniger Malus bei Anstrengung von Pokémon                                    | -               |
+| Name                         | Kurzbeschreibung             | Voraussetzungen |
+| ---------------------------- | ---------------------------- | --------------- |
+| [[Pokémon-Stylistin]]        | Angriffe ablenken            | -               |
+| [[Taktiker]]                 | Schlachtfeld-Aspekte nutzen  | -               |
+| [[Nonverbale Kommunikation]] | Stille Anweisungen           | -               |
+| [[Pokémon-Flüsterer]]        | Schnellerer Zuneigungsaufbau | -               |
+| [[Fitness-Coach]]            | Effektiveres Training        | -               |
+| [[Stratege]]                 | Besseres Pokémon-Wechseln    | -               |
+| [[Schnelldenker]]            | Zusätzliche Kommandos        | -               |
+| [[Motivator]]                | Pokémon über Grenzen treiben | -               |
 
 
 Level 3-4 Talente
-
-
 
 ---

@@ -1,0 +1,5 @@
+# Changelog
+
+Übersicht aller Regeländerungen.
+
+---

@@ -1,6 +1,4 @@
 **Voraussetzungen:**
-**EP-Kosten:**
-
 ### Beschreibung
 
 
