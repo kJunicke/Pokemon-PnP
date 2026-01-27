@@ -10,7 +10,7 @@ Manche Talente haben Voraussetzungen. Achte darauf beim Auswählen.
 
 ## Talentliste
 
-Level 1-2 Talente
+Level 1+ Talente
 
 | Name                         | Kurzbeschreibung             | Voraussetzungen |
 | ---------------------------- | ---------------------------- | --------------- |
@@ -22,8 +22,22 @@ Level 1-2 Talente
 | [[Stratege]]                 | Besseres Pokémon-Wechseln    | -               |
 | [[Schnelldenker]]            | Zusätzliche Kommandos        | -               |
 | [[Motivator]]                | Pokémon über Grenzen treiben | -               |
+| [[Heilende Hände]]           | Pokémon heilen               | -               |
+|                              |                              |                 |
+
+### Talentideen
+
+| Name | Kurzbeschreibung | Voraussetzungen |
+| ---- | ---------------- | --------------- |
+|      |                  |                 |
 
 
-Level 3-4 Talente
+Level 3+ Talente
+
+| Name | Kurzbeschreibung | Voraussetzungen |
+| ---- | ---------------- | --------------- |
+|      |                  |                 |
+
+
 
 ---

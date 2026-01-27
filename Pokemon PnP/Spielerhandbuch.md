@@ -179,8 +179,27 @@ Senke die [[Zuneigung]] jedes [[Pokémon]], das [[Kampfunfähig]] wurde, um 5.
 # 6. Nach der Spielrunde
 Nach jeder Spielrunde erhält dein [[Trainer]] einen [[Erfahrungspunkte|EP]]. Überprüfe also, ob du ein Level aufsteigst. 
 
+## Trainer-EP
+
 ![[Trainer-Level]]
 
+## Freizeit
+![[Freizeit]]
+
+### Attacken beibringen
+![[Attacken beibringen]]
+
+### Zuneigung aufbauen
+![[Zuneigung aufbauen]]
+
+### Statuswerte trainieren
+![[Statuswerte trainieren]]
+
+### Aspekte modifizieren
+![[Aspekte modifizieren]]
+
+### Gegenstände herstellen
+![[Gegenstände herstellen - suchen]]
 
 # 7. Fortgeschrittene Mechaniken
 

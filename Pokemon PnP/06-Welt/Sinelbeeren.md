@@ -1,0 +1,1 @@
+Kann von [[Pokémon]] getragen werden. Heilt 5 HP bei Verzehr.
