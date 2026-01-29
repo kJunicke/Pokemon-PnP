@@ -1,5 +1,9 @@
 # Charaktere
-
+- [[Sawa]] - 
+- [[Nora]] -
+- [[Smash]] - 
+- [[Kash]] - 
+- [[Findulina]] - 
 
 # Starker Start
 -

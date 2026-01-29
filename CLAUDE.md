@@ -49,11 +49,13 @@ Pokemon PnP/                    # Obsidian-Vault
 ├── 02-Attackendex/             # ✅ Wiki: Attacken
 ├── 03-Kommandodex/             # ✅ Wiki: Kampfkommandos
 ├── 04-Talentdex/               # ✅ Wiki: Trainer-Talente
-├── 05-Pokémon/                 # ✅ Wiki: Pokémon-Einträge
-├── 06-Welt/                    # ✅ Wiki: Weltdetails
-├── 07-Kampagne (Nur SL)/       # ❌ Privat: Kampagnenplanung
-├── 08-Spielsitzungen (Nur SL)/ # ❌ Privat: Session Notes
-├── 09-Spieler/                 # ✅ Wiki: Spielercharaktere
+├── 05-Pokédex/                 # ✅ Wiki: Pokémon-Einträge
+├── 06-Itemdex/                 # ✅ Wiki: Items & Ausrüstung
+├── 07-Welt/                    # ✅ Wiki: Weltdetails
+├── 08-Kampagne (Nur SL)/       # ❌ Privat: Kampagnenplanung
+├── 09-Spielsitzungen (Nur SL)/ # ❌ Privat: Session Notes
+├── 10-Spieler/                 # ✅ Wiki: Spielercharaktere
+├── 11-Aspekte/                 # ✅ Wiki: Aspekte
 ├── 98-Templates/               # ❌ Privat: Vorlagen
 ├── 99-Admin/                   # ❌ Privat: TODOs, Anleitungen
 └── Spielerhandbuch.md          # ✅ Wiki: Einstiegsdokument
@@ -118,6 +120,7 @@ quartz/                         # Wiki-Generator (Quartz v4)
 - **NEVER** create files unless absolutely necessary
 - **ALWAYS** prefer editing existing files to creating new ones
 - **NEVER** proactively create documentation files (*.md) or READMEs
+- **NEVER** die [Changelog.md](Pokemon%20PnP/Changelog.md) leeren oder löschen — sie ist eine fortlaufende Übersicht aller Regeländerungen
 
 ### Aufgabenverwaltung
 - Offene Aufgaben in [TODO.md](Pokemon%20PnP/99-Admin/TODO.md)

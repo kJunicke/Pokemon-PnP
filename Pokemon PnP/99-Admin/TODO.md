@@ -7,10 +7,10 @@
 ## 🚨 Kritisch (blockiert Kampf-Simulation)
 
 ### Kommandos-Inhalte fehlen komplett
-- [ ] **[[Zielen]]** - Datei existiert aber ist leer, nur Link zu Attacken
-- [ ] **[[Ausweichen]]** - Datei existiert aber ist leer
-- [ ] **[[Abwehren]]** - Datei existiert aber ist leer
-- [ ] **[[Blocken]]** - Datei existiert aber ist leer
+- [x] **[[Zielen]]** - Datei existiert aber ist leer, nur Link zu Attacken
+- [x] **[[Ausweichen]]** - Datei existiert aber ist leer
+- [x] **[[Abwehren]]** - Datei existiert aber ist leer
+- [x] **[[Blocken]]** - Datei existiert aber ist leer
 - [x] **[[Bewegen]]** - ✅ Hat Inhalt
 - [x] **[[Durchschnaufen]]** - ✅ Hat Inhalt
 
@@ -21,11 +21,11 @@
 - [x] **[[Kampfunfähig]]** - Wann ist ein Pokémon kampfunfähig? (KP=0, Max AP=0, beides?)
 
 ### Unklare Mechaniken
-- [ ] **Anstrengung detailliert** - Wie genau funktioniert Überanstrengung? (Max AP sinkt um wie viel?)
-- [ ] **Reichweiten-Interpretation** - Bedeutet "Mittel" = bis zu Mittel oder genau Mittel?
+- [x] **Anstrengung detailliert** - Wie genau funktioniert Überanstrengung? (Max AP sinkt um wie viel?)
+- [x] **Reichweiten-Interpretation** - Bedeutet "Mittel" = bis zu Mittel oder genau Mittel?
 
 ### Balance-Probleme
-- [ ] **Level 1 Problem** - Alle Stats = +0, Kämpfe sind reines Würfelglück → Start-Level auf 3-5 erhöhen?
+- [x] **Level 1 Problem** - Alle Stats = +0, Kämpfe sind reines Würfelglück → Start-Level auf 3-5 erhöhen?
 
 
 ---
@@ -33,9 +33,9 @@
 ## 📖 Inhalts-Entwicklung (Hoch)
 
 ### Attacken-System ausbauen
-- [ ] **Mehr Beispiel-Attacken** - Mehr als nur die 5 erstellten
-- [ ] **Typen-spezifische Attacken** - Feuer, Wasser, Elektro etc.
-- [ ] **Attacken mit komplexen Effekten** - Kombination von Schaden + Status
+- [x] **Mehr Beispiel-Attacken** - Mehr als nur die 5 erstellten
+- [x] **Typen-spezifische Attacken** - Feuer, Wasser, Elektro etc.
+- [x] **Attacken mit komplexen Effekten** - Kombination von Schaden + Status
 - [ ] **Attacken-Kategorien** - Templates für verschiedene Arten
 
 ---

@@ -1,0 +1,1 @@
+Kann von [[Pokémon]] getragen werden. Physische Attacken fügen +1 Schaden zu 

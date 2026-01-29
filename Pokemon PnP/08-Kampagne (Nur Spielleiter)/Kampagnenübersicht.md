@@ -20,13 +20,13 @@ Rafael ist einer der Ersten, die nach [[Wondria]] kamen und hat sich hier Nieder
 2. Erste Experimente mit ganzen Landstrichen und Dörfern. Vielleicht werden sogar die Spieler kurz getroffen
 3. Die Macht wird ausgesendet um gezielt große Bereiche lahm zu legen und mit Alpträumen zu quälen
 
-## Krista verschmilzt die Welten
+## Die Konjunktion der Welten
 ### Ziel
-Krista war einst interessiert den Riss zu schließen und fand das verantwortliche [[Pokémon]] [[Palkia]]. Dann war sie jedoch so fasziniert von den Möglichkeiten, dass sie nun nach einem Weg sucht diese Macht zu kontrollieren und die Welten zu verschmelzen.
+ Luvetta war einst interessiert den Riss zu schließen und fand das verantwortliche [[Pokémon]] [[Palkia]]. Dann war sie jedoch so fasziniert von den Möglichkeiten, dass sie nun nach einem Weg sucht diese Macht zu kontrollieren und die Welten zu verschmelzen.
 
 ### Grim Portents
 
-1. Krista findet und fängt [[Palkia]]. Dieses wehrt sich heftig und erzeugt überall in der Welt kleine Ungereimtheiten und kleine Risse, die jedoch nicht groß genug sind um hindurch zu gelangen
+1. Luvetta findet und fängt [[Palkia]]. Dieses wehrt sich heftig und erzeugt überall in der Welt kleine Ungereimtheiten und kleine Risse, die jedoch nicht groß genug sind um hindurch zu gelangen
 2. Die Welt wird lokal merklich gekrümmt. Die Spieler finden Wurmlöcher und kurzeitige Transfer zurück nach Gaia.
 3. Ein großer Riss der Gaia und [[Wondria]] verbindet entsteht und dieser ist nicht mehr einfach zu schließen
 
