@@ -1,5 +1,16 @@
 # Tagebuch der Karawane
 
+## Session 2 - Die Handwerkerin
+- Menki-Diebstahl abgewehrt, ein Menki beruhigt, Menki kehrt mit Garde-Fahne zurück
+	- Nora hat das Menki beruhigt mit Yoga und freigelassen -> positiver Eindruck
+- Sandan → Kash, Sesokitz → Karawane, 3 Waumboll → Karawane, Krabby → Karawane (Lvl 2)
+- Katharina (Schreinerin) & Machollo gerettet, Wagen von Garde-Pokémon zurückgeholt
+	- Einigung mit der Garde: Hälfte des Holzes & Werkzeuge abgegeben
+	- #Info: Menschensiedlung im Nordosten
+- Schatten eines Drachens gesichtet — Trainer "Kupfer" nimmt Neuankömmlingen Geld ab.
+- Altes Geld ist universelle Währung: 50 Geld pro Spieler
+
+
 ## Session 1 - Bekifft kämpft sich schlecht
 - Will (Besitzer des Lagers) stößt nach kurzem Kampf zur Gruppe
 - Tanztrio (Myrapla, Knofensa, Hopspoß) schließt sich an

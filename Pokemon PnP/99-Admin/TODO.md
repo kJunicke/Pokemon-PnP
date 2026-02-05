@@ -32,6 +32,11 @@
 
 ## 📖 Inhalts-Entwicklung (Hoch)
 
+### Aus Session 2
+- [ ] **[[Lichtel]] Attacken erstellen**
+- [ ] **[[Piccochilla]] erstellen** + Attacken
+- [ ] **[[Ruckzuckhieb]] erstellen**
+
 ### Attacken-System ausbauen
 - [x] **Mehr Beispiel-Attacken** - Mehr als nur die 5 erstellten
 - [x] **Typen-spezifische Attacken** - Feuer, Wasser, Elektro etc.
@@ -100,5 +105,5 @@
 
 ---
 
-*📅 Letzte Aktualisierung: 2025-12-16*
-*🔄 Status: Kampf-Simulation durchgeführt, kritische Lücken identifiziert, TODO aktualisiert*
+*📅 Letzte Aktualisierung: 2026-02-05*
+*🔄 Status: Session 2 TODOs hinzugefügt*

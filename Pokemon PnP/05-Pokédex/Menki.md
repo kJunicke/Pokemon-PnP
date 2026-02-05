@@ -1,6 +1,6 @@
 ## Grundinformationen
 - **Name**: Menki
-- **Level**:
+- **Level**:1
 - **Typ**: Kampf
 - **Trainer**:
 

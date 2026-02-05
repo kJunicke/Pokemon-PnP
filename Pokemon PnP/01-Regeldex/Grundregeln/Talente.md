@@ -17,18 +17,18 @@ Level 1+ Talente
 1 zusätzliches Kommando pro Kampf
 25% Boni -->
 
-| Name                         | Kurzbeschreibung               | Voraussetzungen |
-| ---------------------------- | ------------------------------ | --------------- |
-| [[Pokémon-Stylistin]]        | Angriffe ablenken              | -               |
-| [[Taktiker]]                 | offenbare Schlachtfeld-Aspekte | -               |
-| [[Nonverbale Kommunikation]] | Stille Anweisungen             | -               |
-| [[Pokémon-Flüsterer]]        | Schnellerer Zuneigungsaufbau   | -               |
-| [[Fitness-Coach]]            | Effektiveres Training          | -               |
-| [[Stratege]]                 | Besseres Pokémon-Wechseln      | -               |
-| [[Schnelldenker]]            | Zusätzliche Kommandos          | -               |
-| [[Motivator]]                | Pokémon über Grenzen treiben   | -               |
-| [[Heilende Hände]]           | Pokémon heilen                 | -               |
-|                              |                                |                 |
+| Name                         | Kurzbeschreibung                                | Voraussetzungen |
+| ---------------------------- | ----------------------------------------------- | --------------- |
+| [[Pokémon-Stylistin]]        | Angriffe ablenken                               | -               |
+| [[Taktiker]]                 | offenbare Schlachtfeld-Aspekte                  | -               |
+| [[Nonverbale Kommunikation]] | Stille Anweisungen                              | -               |
+| [[Pokémon-Flüsterer]]        | Schnellerer Zuneigungsaufbau                    | -               |
+| [[Fitness-Coach]]            | Effektiveres Training                           | -               |
+| [[Stratege]]                 | Besseres Pokémon-Wechseln                       | -               |
+| [[Schnelldenker]]            | Zusätzliche Kommandos                           | -               |
+| [[Motivator]]                | Pokémon über Grenzen treiben                    | -               |
+| [[Heilende Hände]]           | Pokémon heilen                                  | -               |
+| [[Mitfiebernde Gefährten]]   | Lässt ein 2. [[Pokémon]] am geschehen teilhaben |                 |
 
 ### Talentideen
 

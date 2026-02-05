@@ -52,10 +52,10 @@ Pokemon PnP/                    # Obsidian-Vault
 ├── 05-Pokédex/                 # ✅ Wiki: Pokémon-Einträge
 ├── 06-Itemdex/                 # ✅ Wiki: Items & Ausrüstung
 ├── 07-Welt/                    # ✅ Wiki: Weltdetails
-├── 08-Kampagne (Nur SL)/       # ❌ Privat: Kampagnenplanung
-├── 09-Spielsitzungen (Nur SL)/ # ❌ Privat: Session Notes
 ├── 10-Spieler/                 # ✅ Wiki: Spielercharaktere
 ├── 11-Aspekte/                 # ✅ Wiki: Aspekte
+├── 96-Kampagne (Nur SL)/       # ❌ Privat: Kampagnenplanung
+├── 97-Spielsitzungen (Nur SL)/ # ❌ Privat: Session Notes
 ├── 98-Templates/               # ❌ Privat: Vorlagen
 ├── 99-Admin/                   # ❌ Privat: TODOs, Anleitungen
 └── Spielerhandbuch.md          # ✅ Wiki: Einstiegsdokument

@@ -62,7 +62,3 @@ EP für nächstes Level = (320 ÷ 100) × 5 = 16 EP benötigt
 ## Entwicklung
 - **Nächste Entwicklung**: Raichu (Donnerstein)
 - **Levelaufstieg Level 3→4**: 9 EP erhalten, Funkensprung gelernt
-
----
-
-*Beispiel aus [[Pokémon]] Regelwerk - siehe [[MOC-Pokemon]] für vollständige Übersicht*

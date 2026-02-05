@@ -6,8 +6,8 @@ const TARGET = path.join(__dirname, '../content');
 
 // Diese Ordner werden NICHT kopiert (nur für Spielleiter)
 const EXCLUDE = [
-  '07-Kampagne (Nur Spielleiter)',
-  '08-Spielsitzungen (Nur Spielleiter)',
+  '96-Kampagne (Nur Spielleiter)',
+  '97-Spielsitzungen (Nur Spielleiter)',
   '98-Templates',
   '99-Admin',
   '.obsidian'
