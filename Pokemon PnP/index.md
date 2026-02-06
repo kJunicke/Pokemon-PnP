@@ -10,7 +10,7 @@ Das vollständige Regelwerk findest du im [[Spielerhandbuch]].
 
 - [[Spielerhandbuch]] - Einstieg und Übersicht
 - [[01-Regeldex/Grundregeln/Trainererstellung|Trainererstellung]] - Charakter erstellen
-- [[Changelog]] - Regeländerungen
+- [[Änderungsliste]] - Regeländerungen
 
 ## Gruppe
 - [[Spielerübersicht]] - Übersicht eurer Gruppe
