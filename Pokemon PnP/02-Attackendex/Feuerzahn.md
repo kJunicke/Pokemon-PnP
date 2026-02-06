@@ -10,4 +10,4 @@ Beißt mit Flammenden Reizzähnen zu
 | [[Ausdauer\|AP-Kosten]] | 2        |
 | Schadenswürfel          | 2W4      |
 #### Effekt
-Erzeugt Aspekte Feuer und beim Treffer Gegriffen
+Erzeugt Aspekte Feuer und beim Treffer Gegriffen. Entscheide welcher Würfel vor dem Werfen der Feuerwürfel ist. Würfelt dieser eine 3 oder 4 erhält das Ziel den Aspekt brennend

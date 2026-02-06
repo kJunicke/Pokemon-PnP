@@ -28,7 +28,11 @@
       "Bash(move \"Absorber.md\" \"02-Attackendex\"\" && move \"Fadenschuss.md\" \"02-Attackendex\"\")",
       "Bash(move \"Feuerzahn.md\" \"02-Attackendex\"\" && move \"Glut.md\" \"02-Attackendex\"\")",
       "Bash(move \"Rankenhieb.md\" \"02-Attackendex\"\" && move \"Rauchwolke.md\" \"02-Attackendex\"\")",
-      "WebFetch(domain:www.bisafans.de)"
+      "WebFetch(domain:www.bisafans.de)",
+      "Bash(dir:*)",
+      "Bash(findstr:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:kjunicke.github.io)"
     ],
     "deny": [],
     "ask": []

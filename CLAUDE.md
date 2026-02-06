@@ -25,7 +25,6 @@ Quartz-basiertes Wiki das automatisch aus dem Obsidian-Vault gebaut wird.
 ### 2. Single Source of Truth
 - **Regeldex** (`01-Regeldex/`) = kanonische Regeldefinitionen
 - **Spielerhandbuch** = roter Faden, bindet Regeldex-Inhalte ein
-- **MOCs** verlinken, duplizieren nicht
 - Änderungen an Regeln **nur im Regeldex**
 
 ### 3. Transclusion-First
@@ -113,8 +112,6 @@ quartz/                         # Wiki-Generator (Quartz v4)
 
 ### Schreibstil
 - **Spieler-Dokumente** (Spielerhandbuch, Regeldex): Konsequent **"du"** verwenden
-- **SL-Dokumente** können "ihr/Sie" nutzen wo sinnvoll
-- Einheitlicher Ton pro Dokument
 
 ### Dateiverwaltung
 - **NEVER** create files unless absolutely necessary
@@ -130,3 +127,9 @@ quartz/                         # Wiki-Generator (Quartz v4)
 
 ### Grundregel
 **Do what has been asked; nothing more, nothing less.**
+
+### Pokemon erstellen
+- Erstelle Pokemon immer wie in der Pokemon Vorlage im Template ordner vorgegeben
+- Erstelle nicht von dir aus Attacken
+- Wenn nicht anders angemerkt erstelle die Pokemon auf level 1
+- Runde bei den Statuswerten immer

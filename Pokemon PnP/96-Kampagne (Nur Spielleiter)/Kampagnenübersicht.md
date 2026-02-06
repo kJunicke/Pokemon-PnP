@@ -13,6 +13,8 @@ Reise in eine unbekannte Welt voller [[Pokémon]] um die Ursache für eine gehei
 ## Der Schlaf des Rafael
 ### Ziel
 Rafael ist einer der Ersten, die nach [[Wondria]] kamen und hat sich hier Niedergelassen. Er fand einen Weg die mächtigen [[Pokémon]] [[Darkrai]] zu nutzen. Er will seine Macht nutzen um die Welt in ewigen Schlaf zu stürzen.
+- Cresselia wird benutzt um den Schlaf auszuweiten und die Welt in Nacht zu tauchen?
+- Der Schlaf macht [[Pokémon]] aggressiv und stärker?
 
 ### Grim Portents
 
