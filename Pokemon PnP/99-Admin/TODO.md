@@ -34,7 +34,7 @@
 
 ### Aus Session 2
 - [ ] **[[Lichtel]] Attacken erstellen**
-- [ ] **[[Piccochilla]] erstellen** + Attacken
+- [x] **[[Picochilla]] erstellen** + Attacken
 - [ ] **[[Ruckzuckhieb]] erstellen**
 
 ### Attacken-System ausbauen
@@ -105,5 +105,5 @@
 
 ---
 
-*📅 Letzte Aktualisierung: 2026-02-05*
-*🔄 Status: Session 2 TODOs hinzugefügt*
+*📅 Letzte Aktualisierung: 2026-03-26*
+*🔄 Status: Session 3+4 TODOs ergänzt*

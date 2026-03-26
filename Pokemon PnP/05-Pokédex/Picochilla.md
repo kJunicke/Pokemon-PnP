@@ -16,7 +16,9 @@
 | Spezial Verteidigung | 40        | 0,4  |
 | Geschwindigkeit      | 75        | 0,75 |
 | **Summe**            | 300       |      |
+
 **EP zum aufleveln:** 3
 ## Attacken
 - [[Heuler]]
 - [[Schweifschlag]]
+- [[Kratzfurie]]

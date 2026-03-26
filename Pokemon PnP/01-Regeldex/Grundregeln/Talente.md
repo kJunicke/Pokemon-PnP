@@ -28,7 +28,10 @@ Level 1+ Talente
 | [[Schnelldenker]]            | Zusätzliche Kommandos                           | -               |
 | [[Motivator]]                | Pokémon über Grenzen treiben                    | -               |
 | [[Heilende Hände]]           | Pokémon heilen                                  | -               |
-| [[Mitfiebernde Gefährten]]   | Lässt ein 2. [[Pokémon]] am geschehen teilhaben |                 |
+| [[Mitfiebernde Gefährten]]   | Lässt ein 2. [[Pokémon]] am geschehen teilhaben | -               |
+| [[Menschliches Lexikon]]     | Erhalte mehr Wissenspunkte                      | -               |
+| Glückspilz                   |                                                 |                 |
+|                              |                                                 |                 |
 
 ### Talentideen
 

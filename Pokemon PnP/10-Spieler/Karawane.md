@@ -33,5 +33,9 @@ hat euch die Basics der [[Pokémon]] Pflege gezeigt. Ihr könnt nun:
 [[Myrapla]], [[Knofensa]] und [[Hopsproß]]
 - +1 auf Zuneigungsgewinn bei der Freizeitaktivität [[Zuneigung aufbauen]]
 
+weitere Pokemon:
+- Sesokitz
+- 
+
 
 
