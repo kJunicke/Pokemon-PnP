@@ -32,9 +32,20 @@
       "Bash(dir:*)",
       "Bash(findstr:*)",
       "WebFetch(domain:github.com)",
-      "WebFetch(domain:kjunicke.github.io)"
+      "WebFetch(domain:kjunicke.github.io)",
+      "Bash(sed 's/\\\\.md$//')",
+      "Bash(cat > *)",
+      "Read(//tmp/**)",
+      "Bash(echo \"Ruckzuckhieb *)",
+      "Bash(sort /tmp/complete_pokemon_sessions.txt)",
+      "Bash(sort /tmp/final_pokemon_sessions.txt)",
+      "WebSearch",
+      "Bash(python3 -)"
     ],
     "deny": [],
-    "ask": []
+    "ask": [],
+    "additionalDirectories": [
+      "/tmp"
+    ]
   }
 }
