@@ -32,6 +32,14 @@
 
 ## 📖 Inhalts-Entwicklung (Hoch)
 
+### Attacken für neue Pokémon (Session 5/6)
+- [ ] **[[Shallelos]] Attacken** festlegen
+- [ ] **[[Tragosso]] Attacken** festlegen
+- [ ] **[[Fukano]] Attacken** festlegen
+- [ ] **[[Tropius]] Attacken** festlegen
+- [ ] **[[Pionskora]] Attacken** festlegen
+- [ ] **[[Ganovil]] Attacken** festlegen — außerdem Basiswerte und Typ eintragen (unbekannte Herkunft)
+
 ### Aus Session 2
 - [ ] **[[Lichtel]] Attacken erstellen**
 - [x] **[[Picochilla]] erstellen** + Attacken
