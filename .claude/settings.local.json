@@ -40,7 +40,8 @@
       "Bash(sort /tmp/complete_pokemon_sessions.txt)",
       "Bash(sort /tmp/final_pokemon_sessions.txt)",
       "WebSearch",
-      "Bash(python3 -)"
+      "Bash(python3 -)",
+      "Bash(grep -v \"^--$\")"
     ],
     "deny": [],
     "ask": [],
